@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secret Environment Files & Keys (CRITICAL: NEVER COMMIT SECRETS)
+.env
+.env.local
+.env.*.local
+encryption.key
+
+# Local Databases & Generated Vault Files
+*.db
+alex_memory.db
+vault/
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+*.swp
