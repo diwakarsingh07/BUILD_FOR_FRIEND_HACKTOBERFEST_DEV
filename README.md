@@ -64,15 +64,7 @@ ALEX doesn't just chat; it controls the physical machine:
 
 ### 6. 🖥️ Bulletproof Cyberpunk Stream-Flow Interface
 Forget fragile CLI boxes that tear and wrap into ugly glitches when resizing. ALEX features a custom **Stream-Flow Terminal UI** built on Python `Rich`. It dynamically calculates layout boundaries, ensures zero-tear rendering across any window width, formats math step-by-step without broken LaTeX tags, and features live telemetry badges.
-
 ---
-
-## 💻 Code Repository
-The complete, production-ready codebase is open-sourced and documented:
-👉 **[GitHub Repository: Diwakar / ALEX-Sovereign-Operator](https://github.com/your-username/alex-cli-operator)**
-
----
-
 ## 💥 Why Open Innovation Crushes Closed Ecosystems
 Closed AI ecosystems want users docile, trapped inside proprietary subscriptions and cloud sandboxes where data is mined for corporate LLM pretraining.
 
