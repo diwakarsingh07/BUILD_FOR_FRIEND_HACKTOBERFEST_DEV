@@ -1,0 +1,15 @@
+google-generativeai
+groq
+pymongo
+cryptography
+python-dotenv
+rich
+fpdf2
+pypdf
+beautifulsoup4
+trafilatura
+google-search-results
+psutil
+textblob
+duckduckgo-search
+numpy
