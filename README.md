@@ -8,7 +8,7 @@
 
 While most entries in this hackathon built polite, browser-bound wrapper chatbots that wait for users to click buttons, I built **ALEX**—a ruthless, military-grade Autonomous Terminal Operator engineered specifically for my best friend.
 
-My friend is an elite computer science student and builder who constantly suffocated under:
+My friend is an elite science student and builder who constantly suffocated under:
 1. **Context Fragmentation**: Drowning in 50+ browser tabs just to cross-reference technical research, flights, and lecture notes.
 2. **Surveillance Capitalism & Data Leaks**: Modern productivity apps harvest user schedules and intellectual property for cloud model training.
 3. **Fragile Single-Model AI**: Commercial bots crumble the second API rate limits, 429 quota exhaustion, or server outages occur.
