@@ -65,8 +65,7 @@ ALEX doesn't just chat; it controls the physical machine:
 - Deep Windows power management via `powercfg`, forcefully dropping processor states into Battery Saver mode.
 - System-level DND / Focus Assist engagement and workstation lockouts on command.
 
-### 6. 🖥️ Bulletproof Cyberpunk Stream-Flow Interface
-Forget fragile CLI boxes that tear and wrap into ugly glitches when resizing. ALEX features a custom **Stream-Flow Terminal UI** built on Python `Rich`. It dynamically calculates layout boundaries, ensures zero-tear rendering across any window width, formats math step-by-step without broken LaTeX tags, and features live telemetry badges.
+### 6. 🖥️ Bulletproof Cyberpunk Stream-Flow Interface, Forget fragile CLI boxes that tear and wrap into ugly glitches when resizing. ALEX features a custom **Stream-Flow Terminal UI** built on Python `Rich`. It dynamically calculates layout boundaries, ensures zero-tear rendering across any window width, formats math step-by-step without broken LaTeX tags, and features live telemetry badges.
 ---
 ## 💥 Why Open Innovation Crushes Closed Ecosystems
 Closed AI ecosystems want users docile, trapped inside proprietary subscriptions and cloud sandboxes where data is mined for corporate LLM pretraining.
@@ -75,6 +74,8 @@ Closed AI ecosystems want users docile, trapped inside proprietary subscriptions
 - **Zero Censorship & Uncapped Resilience**: Combining frontier intelligence with open-weight LPU infrastructure guarantees that no single corporate policy or server outage can silence the operator.
 - **Absolute Cryptographic Privacy**: By pairing open cryptographic standards (`cryptography.fernet`) with distributed databases (`pymongo`), we achieved complete privacy without sacrificing cloud persistence.
 - **True Physical Utility**: Open Python ecosystems allow AI to break out of the browser and command the host operating system directly.
+
+## Distraction Free assitant, complete focus.
 
 ---
 
