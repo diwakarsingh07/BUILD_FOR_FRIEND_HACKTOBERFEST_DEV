@@ -1,3 +1,6 @@
+
+<img width="1300" height="546" alt="1000209368" src="https://github.com/user-attachments/assets/dcb2d3f3-0bf2-4c0d-a484-6c374e241692" />
+
 # ALEX: The Autonomous Cyberpunk Sovereign AI Operator Built for My Best Friend
 
 *This is a submission for the [Hacktoberfest Weekend Challenge: Build for a Friend](https://dev.to/challenges/hacktoberfest-weekend-2026-10-01)*
